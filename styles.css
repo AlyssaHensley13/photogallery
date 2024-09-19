@@ -73,6 +73,10 @@ nav ul li a {
     font-size: 1.25em;
 }
 
+section {
+    padding: 30px 20px;
+}
+
 /* gallery */
 #gallery {
     text-align: center;
@@ -207,7 +211,3 @@ footer p {
     }
 }
 
-/* spacing */
-section {
-    padding: 30px 20px;
-}
